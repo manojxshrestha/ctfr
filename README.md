@@ -24,7 +24,7 @@ For more information about CT logs, check [www.certificate-transparency.org](htt
 ## Installation
 
 ```bash
-git clone https://github.com/UnaPibaGeek/ctfr.git
+git clone https://github.com/manojxshrestha/ctfr.git
 cd ctfr
 pip3 install -r requirements.txt
 ```
